@@ -1,6 +1,6 @@
 # figma-apca-accessibility
 
-A Claude skill that integrates **APCA (Advanced Perceptual Contrast Algorithm)** directly into the Figma design process — not as a post-design compliance checker, but as a generative, design-time tool.
+A skill that integrates **APCA (Advanced Perceptual Contrast Algorithm)** directly into the Figma design process — not as a post-design compliance checker, but as a generative, design-time tool.
 
 It works in two parts:
 
