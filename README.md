@@ -1,4 +1,4 @@
-# figma-apca-accessibility
+# apca-compliance-figma
 
 A skill that integrates **APCA (Advanced Perceptual Contrast Algorithm)** directly into the Figma design process — not as a post-design compliance checker, but as a generative, design-time tool.
 
