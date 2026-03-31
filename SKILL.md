@@ -1,4 +1,4 @@
-# apca-compliance-figma Skill
+# apca-compliance-figma
 
 ## What This Skill Does
 
