@@ -1,4 +1,4 @@
-# APCA Accessibility Skill
+# apca-compliance-figma Skill
 
 ## What This Skill Does
 
